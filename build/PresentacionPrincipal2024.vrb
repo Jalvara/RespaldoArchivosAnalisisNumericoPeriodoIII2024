@@ -1,0 +1,15 @@
+\frametitle{Ejercicios}
+\begin{Eje}[Cota de error interpolación de Lagrange]
+\indent Considere la siguiente función $f(x)=\sin(\ln(x)).$ Encuentre una cota para el error de aproximación del polinomio interpolante de Lagrange en el intervalo $[2,2.6]$ con tres puntos; $x_0=2$, $x_1=2.4$ y $x_2=2.6$.
+\end{Eje}
+\action<+->{\ }
+\begin{itemize}
+\item \action<+->{\textcolor{red}{\indent Por el teorema relacionado con el polinomio de Lagrange, se sabe que:
+$$|f(x)-P(x)|=\bigg|\dfrac{f^{(3)}(\xi(x))}{6}(x-2)(x-2.4)(x-2.6)\bigg|,$$
+para $x\in[2,2.6]$ y $\xi(x)\in(2,2.6)$}}
+\item \action<+->{\textcolor{red}{\indent Para encontrar las cotas sobre la tercera derivada se necesitan los siguientes cálculos:
+\begin{align*}
+f^{(3)}(z)=&\dfrac{3\sin(\ln(z))+\cos(\ln(z))}{z^3}\\
+f^{(4)}(z)=&-\dfrac{10\cos(\ln(z))}{z^4}\\
+\end{align*}}}
+\end{itemize}

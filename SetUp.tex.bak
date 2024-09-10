@@ -1,0 +1,68 @@
+\usetheme{Berlin}
+\setbeamertemplate{theorems}[numbered]
+\usepackage{hyperref}
+\usefonttheme{serif}
+\usepackage{float}
+\usepackage{setspace}
+\usepackage{listings}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+\lstdefinestyle{consola}
+{basicstyle=\scriptsize\bf\ttfamily,
+backgroundcolor=\color{gray75},
+}
+\lstdefinestyle{mystyle}
+{
+  language=[LaTeX]{TeX},
+  texcsstyle=*\color{blue},
+  breaklines=false;
+	number=none;
+	tabsize=2;
+  basicstyle=\ttfamily\footnotesize,
+  keywordstyle=\color{magenta},
+  commentstyle=\itshape\color{purple!40!black},
+  identifierstyle=\color{blue},
+  backgroundcolor=\color{gray!10!white},
+  moretexcs={mycommand}, % user command highlight
+  frame=single,
+}
+\setbeamersize{text margin left=8mm,text margin right=5mm}
+\setbeamertemplate{footline}[page number]
+\setbeamertemplate{headline}{}
+\setbeamertemplate{background}{\includegraphics[width=\paperwidth,height=\paperheight]{FondoUNAH}}
+\usepackage[utf8]{inputenc}
+\usepackage{float}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{multicol}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{amsthm}
+\newtheorem{Teo}{Teorema}[section]
+\newtheorem{Prop}{Proposición}[section]
+\newtheorem{Def}{Definición}[section]
+\newtheorem{Eje}{Ejercicio}[section]
+\renewcommand{\indent}{\hspace*{2em}}
+\hypersetup{
+    bookmarks=true,         % show bookmarks bar?
+    unicode=false,          % non-Latin characters in Acrobat’s bookmarks
+    pdftoolbar=true,        % show Acrobat’s toolbar?
+    pdfmenubar=true,        % show Acrobat’s menu?
+    pdffitwindow=false,     % window fit to page when opened
+    pdfstartview={FitH},    % fits the width of the page to the window
+    pdftitle={My title},    % title
+    pdfauthor={Author},     % author
+    pdfsubject={Subject},   % subject of the document
+    pdfcreator={Creator},   % creator of the document
+    pdfproducer={Producer}, % producer of the document
+    pdfkeywords={keyword1, key2, key3}, % list of keywords
+    pdfnewwindow=true,      % links in new PDF window
+    colorlinks=false,       % false: boxed links; true: colored links
+    linkcolor=red,          % color of internal links (change box color with linkbordercolor)
+    citecolor=green,        % color of links to bibliography
+    filecolor=cyan,         % color of file links
+    urlcolor=magenta        % color of external links
+}

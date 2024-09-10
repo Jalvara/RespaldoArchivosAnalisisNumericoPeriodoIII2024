@@ -1,0 +1,2155 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.27)  9 SEP 2024 20:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./PresentacionPrincipal2024.tex
+(PresentacionPrincipal2024.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
+Document Class: beamer 2024/01/06 v3.71 A class for typesetting presentations
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemodes.
+sty
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count187
+)
+\beamer@tempbox=\box51
+\beamer@tempcount=\count188
+\c@beamerpauses=\count189
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasedecode
+.sty
+\beamer@slideinframe=\count190
+\beamer@minimum=\count191
+\beamer@decode@box=\box52
+)
+\beamer@commentbox=\box53
+\beamer@modecount=\count192
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+\headdp=\dimen140
+\footheight=\dimen141
+\sidebarheight=\dimen142
+\beamer@tempdim=\dimen143
+\beamer@finalheight=\dimen144
+\beamer@animht=\dimen145
+\beamer@animdp=\dimen146
+\beamer@animwd=\dimen147
+\beamer@leftmargin=\dimen148
+\beamer@rightmargin=\dimen149
+\beamer@leftsidebar=\dimen150
+\beamer@rightsidebar=\dimen151
+\beamer@boxsize=\dimen152
+\beamer@vboxoffset=\dimen153
+\beamer@descdefault=\dimen154
+\beamer@descriptionwidth=\dimen155
+\beamer@lastskip=\skip48
+\beamer@areabox=\box54
+\beamer@animcurrent=\box55
+\beamer@animshowbox=\box56
+\beamer@sectionbox=\box57
+\beamer@logobox=\box58
+\beamer@linebox=\box59
+\beamer@sectioncount=\count193
+\beamer@subsubsectionmax=\count194
+\beamer@subsectionmax=\count195
+\beamer@sectionmax=\count196
+\beamer@totalheads=\count197
+\beamer@headcounter=\count198
+\beamer@partstartpage=\count199
+\beamer@sectionstartpage=\count266
+\beamer@subsectionstartpage=\count267
+\beamer@animationtempa=\count268
+\beamer@animationtempb=\count269
+\beamer@xpos=\count270
+\beamer@ypos=\count271
+\beamer@ypos@offset=\count272
+\beamer@showpartnumber=\count273
+\beamer@currentsubsection=\count274
+\beamer@coveringdepth=\count275
+\beamer@sectionadjust=\count276
+\beamer@toclastsection=\count277
+\beamer@tocsectionnumber=\count278
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseoption
+s.sty
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+))
+\beamer@paperwidth=\skip49
+\beamer@paperheight=\skip50
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count279
+\Gm@cntv=\count280
+\c@Gm@tempcnt=\count281
+\Gm@bindingoffset=\dimen156
+\Gm@wd@mp=\dimen157
+\Gm@odd@mp=\dimen158
+\Gm@even@mp=\dimen159
+\Gm@layoutwidth=\dimen160
+\Gm@layoutheight=\dimen161
+\Gm@layouthoffset=\dimen162
+\Gm@layoutvoffset=\dimen163
+\Gm@dimlist=\toks18
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen164
+\pgfutil@tempdimb=\dimen165
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box60
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks22
+)))
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex
+\pgf@x=\dimen166
+\pgf@xa=\dimen167
+\pgf@xb=\dimen168
+\pgf@xc=\dimen169
+\pgf@y=\dimen170
+\pgf@ya=\dimen171
+\pgf@yb=\dimen172
+\pgf@yc=\dimen173
+\c@pgf@counta=\count282
+\c@pgf@countb=\count283
+\c@pgf@countc=\count284
+\c@pgf@countd=\count285
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen174
+\pgfmath@count=\count286
+\pgfmath@box=\box61
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count287
+)))
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen175
+\Gin@req@width=\dimen176
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+\pgf@x=\dimen177
+\pgf@y=\dimen178
+\pgf@xa=\dimen179
+\pgf@ya=\dimen180
+\pgf@xb=\dimen181
+\pgf@yb=\dimen182
+\pgf@xc=\dimen183
+\pgf@yc=\dimen184
+\pgf@xd=\dimen185
+\pgf@yd=\dimen186
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count288
+\c@pgf@countb=\count289
+\c@pgf@countc=\count290
+\c@pgf@countd=\count291
+\t@pgf@toka=\toks26
+\t@pgf@tokb=\toks27
+\t@pgf@tokc=\toks28
+\pgf@sys@id@count=\count292
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count293
+\pgfsyssoftpath@bigbuffer@items=\count294
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen187
+\pgf@picmaxx=\dimen188
+\pgf@picminy=\dimen189
+\pgf@picmaxy=\dimen190
+\pgf@pathminx=\dimen191
+\pgf@pathmaxx=\dimen192
+\pgf@pathminy=\dimen193
+\pgf@pathmaxy=\dimen194
+\pgf@xx=\dimen195
+\pgf@xy=\dimen196
+\pgf@yx=\dimen197
+\pgf@yy=\dimen198
+\pgf@zx=\dimen199
+\pgf@zy=\dimen256
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen257
+\pgf@path@lasty=\dimen258
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen259
+\pgf@shorten@start@additional=\dimen260
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box62
+\pgf@hbox=\box63
+\pgf@layerbox@main=\box64
+\pgf@picture@serial@count=\count295
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen261
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen262
+\pgf@pt@y=\dimen263
+\pgf@pt@temp=\dimen264
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen265
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen266
+\pgf@sys@shading@range@num=\count296
+\pgf@shadingcount=\count297
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box65
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\xxcolor.s
+ty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count298
+\XC@countmixins=\count299
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count300
+)
+\@linkdim=\dimen267
+\Hy@linkcounter=\count301
+\Hy@pagecounter=\count302
+ (C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count303
+ (C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4064.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4064.
+Package hyperref Info: Option `implicit' set `false' on input line 4064.
+Package hyperref Info: Hyper figures OFF on input line 4181.
+Package hyperref Info: Link nesting OFF on input line 4186.
+Package hyperref Info: Hyper index ON on input line 4189.
+Package hyperref Info: Plain pages OFF on input line 4196.
+Package hyperref Info: Backreferencing OFF on input line 4201.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4448.
+\c@Hy@tempcnt=\count304
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4786.
+\XeTeXLinkMargin=\dimen268
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count305
+\Field@Width=\dimen269
+\Fld@charsize=\dimen270
+Package hyperref Info: Hyper figures OFF on input line 6065.
+Package hyperref Info: Link nesting OFF on input line 6070.
+Package hyperref Info: Hyper index ON on input line 6073.
+Package hyperref Info: backreferencing OFF on input line 6080.
+Package hyperref Info: Link coloring OFF on input line 6085.
+Package hyperref Info: Link coloring with OCG OFF on input line 6090.
+Package hyperref Info: PDF/A mode OFF on input line 6095.
+\Hy@abspage=\count306
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count307
+\c@bookmark@seq@number=\count308
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+))
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaserequir
+es.sty
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecompat
+ibility.sty)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefont.s
+ty (C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks29
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\sansmath
+accent.sty
+Package: sansmathaccent 2020/01/31
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.st
+y
+Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-ho
+ok.sty
+Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
+
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
+)))))
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetransl
+ator.sty
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.s
+ty
+Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
+))
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemisc.s
+ty)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetwoscr
+eens.sty)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseoverla
+y.sty
+\beamer@argscount=\count309
+\beamer@lastskipcover=\skip51
+\beamer@trivlistdepth=\count310
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetitle.
+sty)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasesectio
+n.sty
+\c@lecture=\count311
+\c@part=\count312
+\c@section=\count313
+\c@subsection=\count314
+\c@subsubsection=\count315
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframe.
+sty
+\beamer@framebox=\box66
+\beamer@frametitlebox=\box67
+\beamer@zoombox=\box68
+\beamer@zoomcount=\count316
+\beamer@zoomframecount=\count317
+\beamer@frametextheight=\dimen271
+\c@subsectionslide=\count318
+\beamer@frametopskip=\skip52
+\beamer@framebottomskip=\skip53
+\beamer@frametopskipautobreak=\skip54
+\beamer@framebottomskipautobreak=\skip55
+\beamer@envbody=\toks30
+\framewidth=\dimen272
+\c@framenumber=\count319
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseverbat
+im.sty
+\beamer@verbatimfileout=\write4
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframes
+ize.sty
+\beamer@splitbox=\box69
+\beamer@autobreakcount=\count320
+\beamer@autobreaklastheight=\dimen273
+\beamer@frametitletoks=\toks31
+\beamer@framesubtitletoks=\toks32
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframec
+omponents.sty
+\beamer@footins=\box70
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecolor.
+sty)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenotes.
+sty
+\beamer@frameboxcopy=\box71
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetoc.st
+y)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetempla
+tes.sty
+\beamer@sbttoks=\toks33
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseauxtem
+plates.sty
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseboxes.
+sty
+\bmb@box=\box72
+\bmb@colorbox=\box73
+\bmb@boxwidth=\dimen274
+\bmb@boxheight=\dimen275
+\bmb@prevheight=\dimen276
+\bmb@temp=\dimen277
+\bmb@dima=\dimen278
+\bmb@dimb=\dimen279
+\bmb@prevheight=\dimen280
+)
+\beamer@blockheadheight=\dimen281
+))
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaselocals
+tructure.sty
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks34
+)
+\beamer@bibiconwidth=\skip56
+\c@figure=\count321
+\c@table=\count322
+\abovecaptionskip=\skip57
+\belowcaptionskip=\skip58
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenaviga
+tion.sty
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenaviga
+tionsymbols.tex)
+\beamer@section@min@dim=\dimen282
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetheore
+ms.sty
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip59
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks35
+\ex@=\dimen283
+))
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen284
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count323
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count324
+\leftroot@=\count325
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count326
+\DOTSCASE@=\count327
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box74
+\strutbox@=\box75
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen285
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count328
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count329
+\dotsspace@=\muskip17
+\c@parentequation=\count330
+\dspbrk@lvl=\count331
+\tag@help=\toks36
+\row@=\count332
+\column@=\count333
+\maxfields@=\count334
+\andhelp@=\toks37
+\eqnshift@=\dimen286
+\alignsep@=\dimen287
+\tagshift@=\dimen288
+\tagwidth@=\dimen289
+\totwidth@=\dimen290
+\lineht@=\dimen291
+\@envbody=\toks38
+\multlinegap=\skip60
+\multlinetaggap=\skip61
+\mathdisplay@stack=\toks39
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks40
+\thm@bodyfont=\toks41
+\thm@headfont=\toks42
+\thm@notefont=\toks43
+\thm@headpunct=\toks44
+\thm@preskip=\skip62
+\thm@postskip=\skip63
+\thm@headsep=\skip64
+\dth@everypar=\toks45
+)
+\c@theorem=\count335
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasethemes
+.sty))
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemedefau
+lt.sty
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfontthemed
+efault.sty)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
+default.sty)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnertheme
+default.sty
+\beamer@dima=\dimen292
+\beamer@dimb=\dimen293
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beameroutertheme
+default.sty))) (SetUp.tex
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemeBerli
+n.sty
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beameroutertheme
+miniframes.sty)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
+whale.sty)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
+orchid.sty)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnertheme
+rectangles.sty))
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfontthemes
+erif.sty)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count336
+\float@exts=\toks46
+\float@box=\box76
+\@float@everytoks=\toks47
+\@floatcapt=\box77
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count337
+\lst@gtempboxa=\box78
+\lst@token=\toks48
+\lst@length=\count338
+\lst@currlwidth=\dimen294
+\lst@column=\count339
+\lst@pos=\count340
+\lst@lostspace=\dimen295
+\lst@width=\dimen296
+\lst@newlines=\count341
+\lst@lineno=\count342
+\lst@maxwidth=\dimen297
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count343
+\lst@skipnumbers=\count344
+\lst@framebox=\box79
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks49
+\inpenc@posthook=\toks50
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count345
+\U@D=\dimen298
+\l@unhyphenated=\language79
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read3
+LaTeX Info: Redefining \textlatin on input line 3986.
+\bbl@dirlevel=\count346
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
+df
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks51
+\es@quotdepth=\count347
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel
+-spanish.tex
+Package babel Info: Importing font and identification data for spanish
+(babel)             from babel-es.ini. Reported on input line 11.
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2024/03/11 v1.30 mathematical typesetting tools
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count348
+\calc@Bcount=\count349
+\calc@Adimen=\dimen299
+\calc@Bdimen=\dimen300
+\calc@Askip=\skip65
+\calc@Bskip=\skip66
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count350
+\calc@Cskip=\skip67
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count351
+\l_MT_multwidth_dim=\dimen301
+\origjot=\skip68
+\l_MT_shortvdotswithinadjustabove_dim=\dimen302
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen303
+\l_MT_above_intertext_sep=\dimen304
+\l_MT_below_intertext_sep=\dimen305
+\l_MT_above_shortintertext_sep=\dimen306
+\l_MT_below_shortintertext_sep=\dimen307
+\xmathstrut@box=\box80
+\xmathstrut@dim=\dimen308
+) (C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count352
+\mult@box=\box81
+\multicol@leftmargin=\dimen309
+\c@unbalance=\count353
+\c@collectmore=\count354
+\doublecol@number=\count355
+\multicoltolerance=\count356
+\multicolpretolerance=\count357
+\full@width=\dimen310
+\page@free=\dimen311
+\premulticols=\dimen312
+\postmulticols=\dimen313
+\multicolsep=\skip69
+\multicolbaselineskip=\skip70
+\partial@page=\box82
+\last@line=\box83
+\mc@boxedresult=\box84
+\maxbalancingoverflow=\dimen314
+\mult@rightbox=\box85
+\mult@grightbox=\box86
+\mult@firstbox=\box87
+\mult@gfirstbox=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\@tempa=\box121
+\@tempa=\box122
+\@tempa=\box123
+\@tempa=\box124
+\c@minrows=\count358
+\c@columnbadness=\count359
+\c@finalcolumnbadness=\count360
+\last@try=\dimen315
+\multicolovershoot=\dimen316
+\multicolundershoot=\dimen317
+\mult@nat@firstbox=\box125
+\colbreak@box=\box126
+\mc@col@check@num=\count361
+)
+\c@Teo=\count362
+\c@Prop=\count363
+\c@Def=\count364
+\c@Eje=\count365
+
+
+Package hyperref Warning: Option `bookmarks' has already been used,
+(hyperref)                setting the option has no effect on input line 68.
+
+Package hyperref Info: Option `unicode' set `false' on input line 68.
+Package hyperref Info: Option `pdftoolbar' set `true' on input line 68.
+Package hyperref Info: Option `pdfmenubar' set `true' on input line 68.
+Package hyperref Info: Option `pdffitwindow' set `false' on input line 68.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 68.
+Package hyperref Info: Option `colorlinks' set `false' on input line 68.
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count366
+\l__pdf_internal_box=\box127
+)
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.aux
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+)
+\openout1 = `PresentacionPrincipal2024.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(22.76219pt, 327.2068pt, 14.22636pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=327.2068pt
+* \textheight=244.6939pt
+* \oddsidemargin=-49.5078pt
+* \evensidemargin=-49.5078pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=14.22636pt
+* \marginparwidth=3.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count367
+\scratchdimen=\dimen318
+\scratchbox=\box128
+\nofMPsegments=\count368
+\nofMParguments=\count369
+\everyMPshowfont=\toks52
+\MPscratchCnt=\count370
+\MPscratchDim=\dimen319
+\MPnumerator=\count371
+\makeMPintoPDFobject=\count372
+\everyMPtoPDFconversion=\toks53
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring OFF on input line 7.
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.out)
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.out)
+\@outlinefile=\write5
+\openout5 = `PresentacionPrincipal2024.out'.
+
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
+asic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
+ibliography-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-e
+nvironment-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-m
+onths-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-n
+umbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-t
+heorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+\c@lstlisting=\count373
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.nav)
+<FondoUNAH.png, id=24, 1204.5pt x 632.3625pt>
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 10.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [1
+
+{C:/Users/50487/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./FondoUNAH.
+png>] (PrimeraUnidad.tex
+
+LaTeX Warning: Citation `burden2017análisis' on page 2 undefined on input line
+ 19.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
+
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 19.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+
+[2
+
+]
+<Imagen17.png, id=99, 258.10715pt x 215.08928pt>
+File: Imagen17.png Graphic file (type png)
+<use Imagen17.png>
+Package pdftex.def Info: Imagen17.png  used on input line 34.
+(pdftex.def)             Requested size: 129.05325pt x 107.54437pt.
+
+Overfull \vbox (3.6152pt too high) detected at line 34
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 34.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[3
+
+ <./Imagen17.png>]
+<Imagen18.png, id=133, 258.10715pt x 215.08928pt>
+File: Imagen18.png Graphic file (type png)
+<use Imagen18.png>
+Package pdftex.def Info: Imagen18.png  used on input line 50.
+(pdftex.def)             Requested size: 103.24101pt x 86.03418pt.
+
+Overfull \vbox (10.74133pt too high) detected at line 50
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 50.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[4
+
+ <./Imagen18.png>]
+<Imagen19.png, id=163, 258.10715pt x 215.08928pt>
+File: Imagen19.png Graphic file (type png)
+<use Imagen19.png>
+Package pdftex.def Info: Imagen19.png  used on input line 63.
+(pdftex.def)             Requested size: 180.67375pt x 150.56146pt.
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 63.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [5
+
+ <./Imagen19.png>]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 83.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [6
+
+]
+\openout4 = `PresentacionPrincipal2024.vrb'.
+
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb
+<Imagen20.png, id=219, 258.10715pt x 215.08928pt>
+File: Imagen20.png Graphic file (type png)
+<use Imagen20.png>
+Package pdftex.def Info: Imagen20.png  used on input line 5.
+(pdftex.def)             Requested size: 180.67375pt x 150.56146pt.
+)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 95.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [7
+
+ <./Imagen20.png>]
+\openout4 = `PresentacionPrincipal2024.vrb'.
+
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.sty
+File: lstlang2.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang3.sty
+File: lstlang3.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.sty
+File: lstlang2.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang3.sty
+File: lstlang3.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.sty
+File: lstlang2.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang3.sty
+File: lstlang3.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+)
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 6
+.
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
+File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <7> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 6.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 9
+.
+
+(C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
+)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 122.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+
+[8
+
+]
+\openout4 = `PresentacionPrincipal2024.vrb'.
+
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 141.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [9
+
+]
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 141.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [10
+
+]
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 141.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [11
+
+]
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 141.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [12
+
+]
+\openout4 = `PresentacionPrincipal2024.vrb'.
+
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 153.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [13
+
+]
+\openout4 = `PresentacionPrincipal2024.vrb'.
+
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 171.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [14
+
+]
+\openout4 = `PresentacionPrincipal2024.vrb'.
+
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 187.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [15
+
+]
+\openout4 = `PresentacionPrincipal2024.vrb'.
+
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb
+
+LaTeX Warning: Citation `burden2017análisis' on page 16 undefined on input lin
+e 2.
+
+)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 202.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [16
+
+]
+\openout4 = `PresentacionPrincipal2024.vrb'.
+
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 213.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [17
+
+]
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 213.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [18
+
+]
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 213.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [19
+
+]
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 213.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [20
+
+]
+\openout4 = `PresentacionPrincipal2024.vrb'.
+
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 232.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [21
+
+]
+\openout4 = `PresentacionPrincipal2024.vrb'.
+
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+Overfull \vbox (9.84459pt too high) detected at line 257
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 257.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[22
+
+]
+\openout4 = `PresentacionPrincipal2024.vrb'.
+
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 271.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [23
+
+]) (EjerciciosParcial1.tex
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 18.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+
+[24
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 18.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [25
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 18.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [26
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 18.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [27
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 18.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [28
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 18.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [29
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 34.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [30
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 34.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [31
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 34.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [32
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 34.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [33
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 34.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [34
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 34.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [35
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 51.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [36
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 51.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [37
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 51.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [38
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 51.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+
+[39
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 51.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [40
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 66.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [41
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 66.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [42
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 66.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [43
+
+]
+<Imagen16.png, id=1189, 258.10715pt x 215.08928pt>
+File: Imagen16.png Graphic file (type png)
+<use Imagen16.png>
+Package pdftex.def Info: Imagen16.png  used on input line 87.
+(pdftex.def)             Requested size: 129.05325pt x 107.54437pt.
+
+Overfull \vbox (14.03627pt too high) detected at line 87
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 87.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[44
+
+ <./Imagen16.png>]
+File: Imagen16.png Graphic file (type png)
+<use Imagen16.png>
+Package pdftex.def Info: Imagen16.png  used on input line 87.
+(pdftex.def)             Requested size: 129.05325pt x 107.54437pt.
+
+Overfull \vbox (14.03627pt too high) detected at line 87
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 87.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[45
+
+]
+File: Imagen16.png Graphic file (type png)
+<use Imagen16.png>
+Package pdftex.def Info: Imagen16.png  used on input line 87.
+(pdftex.def)             Requested size: 129.05325pt x 107.54437pt.
+
+Overfull \vbox (14.03627pt too high) detected at line 87
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 87.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[46
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 102.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [47
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 102.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [48
+
+]
+\openout4 = `PresentacionPrincipal2024.vrb'.
+
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
+)
+Overfull \vbox (32.15186pt too high) detected at line 126
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 126.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[49
+
+]
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+Overfull \vbox (32.15186pt too high) detected at line 126
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 126.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[50
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 146.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [51
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 146.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [52
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 146.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [53
+
+]
+
+Package amsmath Warning: Foreign command \over;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 170.
+
+
+Overfull \vbox (4.68298pt too high) detected at line 170
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 170.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[54
+
+]
+Overfull \vbox (4.68298pt too high) detected at line 170
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 170.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[55
+
+]
+Overfull \vbox (4.68298pt too high) detected at line 170
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 170.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[56
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 187.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [57
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 187.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [58
+
+]
+Overfull \hbox (5.46875pt too wide) detected at line 200
+[]
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 200.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[59
+
+]
+Overfull \hbox (5.46875pt too wide) detected at line 200
+[]
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 200.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[60
+
+]
+Overfull \hbox (5.46875pt too wide) detected at line 200
+[]
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 200.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[61
+
+]
+Overfull \hbox (5.46875pt too wide) detected at line 200
+[]
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 200.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[62
+
+]
+\openout4 = `PresentacionPrincipal2024.vrb'.
+
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 213.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [63
+
+]
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 213.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [64
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 230.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [65
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 230.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [66
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 230.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [67
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 230.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [68
+
+]
+\openout4 = `PresentacionPrincipal2024.vrb'.
+
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 253.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [69
+
+]
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 253.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [70
+
+]
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 253.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [71
+
+]
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 253.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [72
+
+]
+\openout4 = `PresentacionPrincipal2024.vrb'.
+
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb
+Overfull \hbox (3.26855pt too wide) detected at line 27
+[]
+ []
+
+)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 282.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [73
+
+]
+\openout4 = `PresentacionPrincipal2024.vrb'.
+
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 312.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [74
+
+]
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 312.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [75
+
+]
+\openout4 = `PresentacionPrincipal2024.vrb'.
+
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb
+Overfull \hbox (0.24428pt too wide) in paragraph at lines 40--41
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (0.24428pt too wide) in paragraph at lines 41--42
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (0.24428pt too wide) in paragraph at lines 42--43
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+)
+Overfull \vbox (23.36551pt too high) detected at line 358
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 358.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[76
+
+]
+\openout4 = `PresentacionPrincipal2024.vrb'.
+
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+Overfull \vbox (24.69485pt too high) detected at line 374
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 374.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[77
+
+]
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+Overfull \vbox (24.69485pt too high) detected at line 374
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 374.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[78
+
+]
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.vrb)
+Overfull \vbox (24.69485pt too high) detected at line 374
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 374.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[79
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 391.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [80
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 391.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [81
+
+]
+Overfull \hbox (12.22017pt too wide) detected at line 406
+\OMS/cmsy/m/n/7 j\OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n
+/7 ) \OMS/cmsy/m/n/7 ^^@ \OML/cmm/m/it/7 P\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1
+/cmr/m/n/7 )\OMS/cmsy/m/n/7 j \OT1/cmr/m/n/7 = [][](\OML/cmm/m/it/7 x \OMS/cmsy
+/m/n/7 ^^@ \OT1/cmr/m/n/7 2)(\OML/cmm/m/it/7 x \OMS/cmsy/m/n/7 ^^@ \OT1/cmr/m/n
+/7 2[]4)(\OML/cmm/m/it/7 x \OMS/cmsy/m/n/7 ^^@ \OT1/cmr/m/n/7 2[]6)[] \OMS/cmsy
+/m/n/7 ^^T \OML/cmm/m/it/7 g[][][]f[]\OT1/cmr/m/n/7 (2)\OML/cmm/m/it/7 =\OT1/cm
+r/m/n/7 6 \OMS/cmsy/m/n/7 ^^Y \OT1/cmr/m/n/7 9[]4574 \OMS/cmsy/m/n/7 ^^B \OT1/c
+mr/m/n/7 10[]
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 406.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[82
+
+]
+Overfull \hbox (12.22017pt too wide) detected at line 406
+\OMS/cmsy/m/n/7 j\OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n
+/7 ) \OMS/cmsy/m/n/7 ^^@ \OML/cmm/m/it/7 P\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1
+/cmr/m/n/7 )\OMS/cmsy/m/n/7 j \OT1/cmr/m/n/7 = [][](\OML/cmm/m/it/7 x \OMS/cmsy
+/m/n/7 ^^@ \OT1/cmr/m/n/7 2)(\OML/cmm/m/it/7 x \OMS/cmsy/m/n/7 ^^@ \OT1/cmr/m/n
+/7 2[]4)(\OML/cmm/m/it/7 x \OMS/cmsy/m/n/7 ^^@ \OT1/cmr/m/n/7 2[]6)[] \OMS/cmsy
+/m/n/7 ^^T \OML/cmm/m/it/7 g[][][]f[]\OT1/cmr/m/n/7 (2)\OML/cmm/m/it/7 =\OT1/cm
+r/m/n/7 6 \OMS/cmsy/m/n/7 ^^Y \OT1/cmr/m/n/7 9[]4574 \OMS/cmsy/m/n/7 ^^B \OT1/c
+mr/m/n/7 10[]
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 406.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[83
+
+]
+Overfull \hbox (5.07085pt too wide) detected at line 423
+[]
+ []
+
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 423.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+[84
+
+]
+File: FondoUNAH.png Graphic file (type png)
+<use FondoUNAH.png>
+Package pdftex.def Info: FondoUNAH.png  used on input line 439.
+(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
+ [85
+
+])
+\tf@nav=\write6
+\openout6 = `PresentacionPrincipal2024.nav'.
+
+\tf@toc=\write7
+\openout7 = `PresentacionPrincipal2024.toc'.
+
+\tf@snm=\write8
+\openout8 = `PresentacionPrincipal2024.snm'.
+
+
+(C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
+\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
+clase\build\PresentacionPrincipal2024.aux
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `PresentacionPrincipal2024.out' has not chang
+ed.
+(rerunfilecheck)             Checksum: C11C6995EFC79C2BAA5FDEFD1F657FC8;161.
+ ) 
+Here is how much of TeX's memory you used:
+ 27962 strings out of 474486
+ 535253 string characters out of 5743755
+ 2001542 words of memory out of 5000000
+ 49432 multiletter control sequences out of 15000+600000
+ 567280 words of font info for 71 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 128i,18n,123p,536b,2383s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{Navigation86} has been referenced but does not exis
+t, replaced by a fixed one
+
+ <C:\Users\50487\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm09
+00.pk> <C:\Users\50487\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
+tcrm0700.pk><C:/Users/50487/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmbx10.pfb><C:/Users/50487/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmbx9.pfb><C:/Users/50487/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/50487/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><C:/Users/50487/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/Users/50487
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Us
+ers/50487/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pf
+b><C:/Users/50487/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmmi7.pfb><C:/Users/50487/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmmi9.pfb><C:/Users/50487/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmr10.pfb><C:/Users/50487/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmr12.pfb><C:/Users/50487/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/50487/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/50487/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/50487/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/50487/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/User
+s/50487/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb>
+<C:/Users/50487/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+sy6.pfb><C:/Users/50487/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmsy7.pfb><C:/Users/50487/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmsy9.pfb><C:/Users/50487/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmti10.pfb><C:/Users/50487/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/50487/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "C:\Users\50487\OneDrive - Universidad Nacional Autónoma de 
+Honduras\Documents\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Pr
+esentación de la clase\build\PresentacionPrincipal2024.pdf" (85 pages, 1476535
+ bytes).
+PDF statistics:
+ 2416 PDF objects out of 2487 (max. 8388607)
+ 194 named destinations out of 1000 (max. 500000)
+ 97 words of extra memory for PDF output out of 10000 (max. 10000000)
+

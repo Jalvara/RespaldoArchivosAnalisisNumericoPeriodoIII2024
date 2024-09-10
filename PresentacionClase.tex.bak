@@ -1,0 +1,26 @@
+\documentclass[10pt,legalpaper]{beamer}
+\input{SetUp.tex}
+\author{Myrian González Orellana}
+\title{Departamento de Matemática Aplicada\\
+Análisis Numérico, IC303}
+\date{PACIII2023}  
+\begin{document}
+\begin{frame}
+\titlepage
+\end{frame}
+%\begin{frame}{\centering\textbf{Tabla de Contenidos}}
+%\tableofcontents[hideallsubsections]
+%\end{frame}
+\input{PrimeraUnidad.tex}
+%\input{SegundaUnidad.tex}
+%\section{Derivación Numérica}
+%\section{Integración Numérica}
+%\section{Problemas de valor inicial}
+%\section{Problemas de valores en la frontera}
+%\section{Ejercicios}
+%\input{EjerciciosParcial2}
+%\input{EjerciciosParcial1}
+%\begin{frame}{\textbf{Referencias}}
+%\printbibliography
+%\end{frame}
+\end{document}

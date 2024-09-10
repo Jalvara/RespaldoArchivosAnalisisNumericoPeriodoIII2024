@@ -1,0 +1,10 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {spanish}{}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {1}{Preliminares del cálculo}{3}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{Raíces de ecuaciones}{8}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{Aproximación de funciones}{20}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{Ejercicios}{59}{0}{4}

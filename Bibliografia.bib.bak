@@ -1,0 +1,15 @@
+@book{burden2017análisis,
+  title={Analisis numerico},
+  author={Burden, Richard L y otros},
+  year={2017}
+}
+@article{xiao2015simple,
+  title={A simple and efficient method with high order convergence for solving systems of nonlinear equations},
+  author={Xiao, Xiaoyong and Yin, Hongwei},
+  journal={Computers \& Mathematics with Applications},
+  volume={69},
+  number={10},
+  pages={1220--1231},
+  year={2015},
+  publisher={Elsevier}
+}
