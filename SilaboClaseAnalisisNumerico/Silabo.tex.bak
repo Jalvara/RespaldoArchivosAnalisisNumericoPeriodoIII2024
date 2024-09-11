@@ -1,8 +1,9 @@
-\documentclass[12pt,letterpaper]{article}
+\documentclass[11pt,letterpaper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
 \usepackage{amsmath}
 \usepackage{amsfonts}
+\usepackage{diagbox}
 \usepackage{amssymb}
 \usepackage{makeidx}
 \usepackage{array}
@@ -18,6 +19,7 @@
 \usepackage[margin=1.5cm]{geometry}
 \definecolor{TAREA}{HTML}{FF65D4}
 \definecolor{EXAMEN}{HTML}{99CE3E}
+\definecolor{VIRTUAL}{HTML}{5aa3ec}
 \title{
 \vspace*{-1.5cm}
 \Large \textbf{Universidad Nacional Autónoma de Honduras}\\[0.5cm]
@@ -87,13 +89,18 @@ Esta es la información general del curso.
 \begin{tabular}{|l|l|c|}
 \hline
 Actividad  & Horario & Porcentaje\\\hline\hline
-Examen I&10:00 a.m.$-$12:00 a.m.&80\%\\
-Examen II&10:00 a.m.$-$12:00 a.m.&80\%\\
-Examen III&10:00 a.m.$-$12:00 a.m.&80\%\\
-Tarea I&05:00 a.m.$-$11:59 p.m.&20\%\\
-Tarea II&05:00 a.m.$-$11:59 p.m.&20\%\\
-Tarea III&05:00 a.m.$-$11:59 p.m.&20\%\\
-Reposición &10:00 a.m.$-$12:00 a.m.&80\%\\\hline
+Prueba I&11:00 $-$12:00 &9\%\\
+Prueba II&11:00 $-$12:00 &14\%\\
+Prueba III&11:00 $-$12:00 &14\%\\
+Prueba IV&11:00 $-$12:00 &14\%\\
+Prueba V&11:00 $-$12:00 &14\%\\
+Prueba VI&10:00 $-$12:00 &14\%\\
+Tarea I&11:00 &4\%\\
+Tarea II&11:00 &4\%\\
+Tarea III&11:00 &4\%\\
+Prueba Virtual I &00:01 $-$23:59 &3\%\\
+Prueba Virtual II &00:01 $-$23:59 &3\%\\
+Prueba Virtual III &00:01 $-$23:59 &3\%\\\hline
 \end{tabular}
 \end{table}
 %==========================================================================
@@ -107,22 +114,24 @@ Reposición &10:00 a.m.$-$12:00 a.m.&80\%\\\hline
 \begin{tabular}{ccccc|ccccc}
 \multicolumn{5}{c|}{\cellcolor{red!40}{SEPTIEMBRE}}&\multicolumn{5}{c}{\cellcolor{blue!40}{OCTUBRE}}\\
 S.&L&M&M&J&S.&L&M&M&J\\
-I&\cellcolor{gray!40}{}&\cellcolor{gray!40}{}&11&12&IV&7&8&9&\cellcolor{TAREA}{10}\\
-II&\cellcolor{gray!40}{}&\cellcolor{gray!40}{}&18&\cellcolor{white}{19}&V&14&\cellcolor{gray!40}{}&16&\cellcolor{EXAMEN}{17}\\
-III&\cellcolor{white}{23}&24&25&\cellcolor{gray!40}{}&VI&\cellcolor{white}{21}&\cellcolor{white}{22}&\cellcolor{white}{23}&\cellcolor{white}{24}\\
-&&&&&VII&\cellcolor{white}{28}&29&30&31\\
+I &\cellcolor{gray!40}{}&\cellcolor{gray!40}{}&11&12&IV&7&8&9&\cellcolor{white}{10}\\
+II&\cellcolor{gray!40}{}&\cellcolor{gray!40}{}&18&\cellcolor{white}{19}&\cellcolor{VIRTUAL}{V}&14&\cellcolor{gray!40}{}&\cellcolor{EXAMEN}{$16\textcolor{TAREA}{\blacksquare}$}&\cellcolor{white}{17}\\
+III&\cellcolor{white}{23}&24&\cellcolor{EXAMEN}{25}&\cellcolor{white}{26}&VI&\cellcolor{white}{21}&\cellcolor{white}{22}&\cellcolor{white}{23}&\cellcolor{white}{24}\\
+&&&&&VII&\cellcolor{white}{28}&29&\cellcolor{EXAMEN}{30}&31\\
 \multicolumn{5}{c|}{\cellcolor{cyan!40}{NOVIEMBRE}}&\multicolumn{5}{c}{\cellcolor{green!40}{DICIEMBRE}}\\
 S.&L&M&M&J&S.&L&M&M&J\\
-VIII&\cellcolor{TAREA}{4}&5&6&7&XII&\cellcolor{EXAMEN}{2}&3&4&5\\
-IX&\cellcolor{EXAMEN}{11}&12&13&\cellcolor{white}{14}&XIII&\cellcolor{EXAMEN}{9}&10&11&12\\
+VIII&\cellcolor{white}{4}&5&6&7&\cellcolor{VIRTUAL}{XII}&\cellcolor{white}{2}&3&4&5\\
+\cellcolor{VIRTUAL}{IX}&\cellcolor{white}{11}&12&\cellcolor{EXAMEN}{$13\textcolor{TAREA}{\blacksquare}$}&\cellcolor{white}{14}&XIII&\cellcolor{white}{9}&10&\cellcolor{EXAMEN}{$11\textcolor{TAREA}{\blacksquare}$}&12\\
 X&18&19&20&\cellcolor{white}{21}&XIV&\cellcolor{gray!40}{16}&\cellcolor{gray!40}{17}&\cellcolor{gray!40}{18}&\\
-XI&\cellcolor{TAREA}{25}&26&27&28&&&&&\\
+XI&\cellcolor{white}{25}&26&\cellcolor{EXAMEN}{27}&28&&&&&\\
 \end{tabular} 
 \end{center}
 \begin{center}
 \begin{tabular}{lp{0.41\textwidth}}
-\cellcolor{TAREA}{\ }&Entrega de tarea.\\
-\cellcolor{EXAMEN}{\ }&Examen presencial. Duración de dos horas en el horario de clases. El lunes 9 es una fecha donde se hará una reposición.
+\cellcolor{TAREA}{\ }&\textbf{Tarea}: Este color representa las fechas en que se entregarán las tareas.\\
+\cellcolor{VIRTUAL}{\ }&\textbf{Prueba virtual}: Este color indica la semana en que se realizará una prueba en el campus virtual. Dichas pruebas estarán abiertas durante todo el fin de semana; por ejemplo en la semana V habrá una prueba en las fechas 19 y 20 de octubre. \\
+\cellcolor{EXAMEN}{\ }&\textbf{Prueba presencial}: Este color representa las fechas en que se realizará una prueba en el aula de clases.\\
+\cellcolor{gray!40}{\ }&Estas fechas corresponden a días feriados y donde ténicamente no habrían clases.
 \end{tabular}
 \end{center}
 \begin{center}
