@@ -1,0 +1,140 @@
+\documentclass[12pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{makeidx}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage{booktabs}
+\usepackage{colortbl}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage[xcdraw]{xcolor}
+\usepackage{colortbl}
+\usepackage[margin=1.5cm]{geometry}
+\definecolor{TAREA}{HTML}{FF65D4}
+\definecolor{EXAMEN}{HTML}{99CE3E}
+\title{
+\vspace*{-1.5cm}
+\Large \textbf{Universidad Nacional Autónoma de Honduras}\\[0.5cm]
+\includegraphics[scale=0.4]{UNAH_Gris}\\[0.1cm]
+\Large Escuela de Matemática y Ciencias de la Computación\\
+\Large Departamento de Matemática Aplicada\\
+\large Análisis Numérico, MMM412\\
+\large Tercer periodo académico 2024.
+}
+\begin{document}
+\maketitle
+\begin{multicols}{2}
+\renewcommand{\arraystretch}{1.2}
+\begin{center}
+\begin{tabular}{c}
+\cellcolor{gray!40}{GENERALIDADES DEL CURSO}
+\end{tabular}
+\end{center}
+Esta es la información general del curso.
+\begin{itemize}
+\item \textbf{Asignatura:} Análisis Numérico.
+\item \textbf{Créditos:} 4.
+\item \textbf{Docente:} Myrian Gonzales.
+\item \textbf{Email:} myrian.gonzalez@unah.edu.hn
+\end{itemize}
+\begin{center}
+\begin{tabular}{c}
+\cellcolor{gray!40}{METODOLOGÍA DE ENSEÑANZA}
+\end{tabular}
+\end{center}
+\hspace*{0.5cm}El proceso de enseñanza-aprendizaje de este espacio de aprendizaje se desarrollará mediante la modalidad presencial. Las actividades se han desarrollado para que el estudiante por medio de diversas prácticas alcance los conocimientos del curso.
+\begin{center}
+\begin{tabular}{c}
+\cellcolor{gray!40}{MATERIALES Y RECURSOS DIDÁCTICOS}
+\end{tabular}
+\end{center}
+\hspace*{0.5cm} Para el proceso de enseñanza se utilizarán los siguientes recursos. 
+\begin{itemize}
+\item Proyector: Se usará un conjunto de presentaciones como apoyo al estudiante para el desarrollo y comprensión de la clase.
+\item Campus Virtual. En este espacio se asignarán diferentes actividades relacionadas con la clase. 
+\item Software: Se utilizará un lenguaje de programación de álgebra computacional para el desarrollo y demostración de los temas de la clase.
+\end{itemize}
+\begin{center}
+\begin{tabular}{c}
+\cellcolor{gray!40}{CONTENIDOS}
+\end{tabular}
+\end{center}
+\hspace*{0.5cm} Este curso esta diseñado para que el estudiante controle diferentes aspectos técnicos y prácticos referentes al análisis numérico:
+\begin{itemize}
+\item Preliminares del cálculo.
+\item Métodos para la busqueda de raíces.
+\item Métodos para la aproximación de funciones.
+\item Integración Numérica.
+\item Diferenciación Numérica.
+\item Métodos para la resolución de problemas de valor inicial. 
+\item Problemas con valores en la frontera para ecuaciones diferenciales ordinarias.
+\end{itemize} 
+%==========================================================================
+\begin{center}
+\begin{tabular}{c}
+\cellcolor{gray!40}{EVALUACIÓN}
+\end{tabular}
+\end{center}
+\vspace*{0.5cm} Para la evalución de los contenidos aprendidos en la clase se considerarán las siguientes actividades:
+\begin{table}[H]
+\centering
+\begin{tabular}{|l|l|c|}
+\hline
+Actividad  & Horario & Porcentaje\\\hline\hline
+Examen I&10:00 a.m.$-$12:00 a.m.&80\%\\
+Examen II&10:00 a.m.$-$12:00 a.m.&80\%\\
+Examen III&10:00 a.m.$-$12:00 a.m.&80\%\\
+Tarea I&05:00 a.m.$-$11:59 p.m.&20\%\\
+Tarea II&05:00 a.m.$-$11:59 p.m.&20\%\\
+Tarea III&05:00 a.m.$-$11:59 p.m.&20\%\\
+Reposición &10:00 a.m.$-$12:00 a.m.&80\%\\\hline
+\end{tabular}
+\end{table}
+%==========================================================================
+\hspace*{0.5cm} 
+\begin{center}
+\begin{tabular}{c}
+\cellcolor{gray!40}{PROGRAMACIÓN}
+\end{tabular}
+\end{center}
+\begin{center}
+\begin{tabular}{ccccc|ccccc}
+\multicolumn{5}{c|}{\cellcolor{red!40}{SEPTIEMBRE}}&\multicolumn{5}{c}{\cellcolor{blue!40}{OCTUBRE}}\\
+S.&L&M&M&J&S.&L&M&M&J\\
+I&\cellcolor{gray!40}{}&\cellcolor{gray!40}{}&11&12&IV&7&8&9&\cellcolor{TAREA}{10}\\
+II&\cellcolor{gray!40}{}&\cellcolor{gray!40}{}&18&\cellcolor{white}{19}&V&14&\cellcolor{gray!40}{}&16&\cellcolor{EXAMEN}{17}\\
+III&\cellcolor{white}{23}&24&25&\cellcolor{gray!40}{}&VI&\cellcolor{white}{21}&\cellcolor{white}{22}&\cellcolor{white}{23}&\cellcolor{white}{24}\\
+&&&&&VII&\cellcolor{white}{28}&29&30&31\\
+\multicolumn{5}{c|}{\cellcolor{cyan!40}{NOVIEMBRE}}&\multicolumn{5}{c}{\cellcolor{green!40}{DICIEMBRE}}\\
+S.&L&M&M&J&S.&L&M&M&J\\
+VIII&\cellcolor{TAREA}{4}&5&6&7&XII&\cellcolor{EXAMEN}{2}&3&4&5\\
+IX&\cellcolor{EXAMEN}{11}&12&13&\cellcolor{white}{14}&XIII&\cellcolor{EXAMEN}{9}&10&11&12\\
+X&18&19&20&\cellcolor{white}{21}&XIV&\cellcolor{gray!40}{16}&\cellcolor{gray!40}{17}&\cellcolor{gray!40}{18}&\\
+XI&\cellcolor{TAREA}{25}&26&27&28&&&&&\\
+\end{tabular} 
+\end{center}
+\begin{center}
+\begin{tabular}{lp{0.41\textwidth}}
+\cellcolor{TAREA}{\ }&Entrega de tarea.\\
+\cellcolor{EXAMEN}{\ }&Examen presencial. Duración de dos horas en el horario de clases. El lunes 9 es una fecha donde se hará una reposición.
+\end{tabular}
+\end{center}
+\begin{center}
+\begin{tabular}{c}
+\cellcolor{gray!40}{BIBLIOGRAFÍAS}
+\end{tabular}
+\end{center}
+\begin{itemize}
+\item Burden, R. L. (2017). Análisis numérico.
+\item Sauer, T., \& Murrieta, J. E. M. (2013). Análisis numérico. México: Pearson Educación.
+\end{itemize}
+\end{multicols}
+\begin{center}
+\end{center}
+\end{document}
