@@ -404,36 +404,3 @@ $$|f(x)-P(x)|=\bigg|\dfrac{f^{(3)}(\xi(x))}{6}(x-2)(x-2.4)(x-2.6)\bigg|
 \indent La cota de error entonces es aproximadamente $9.5\times 10^{-4}$.}}
 \end{itemize}
 \end{frame}
-%===========================
-\begin{frame}{Ejercicios}
-\begin{Eje}[Ejercicio del examen del IIPA2023]
-Sea $f(x)=\sqrt{x-x^2}$ y $P_2(x)$ el polinomio interpolante de Lagrange en $x_0=0$, $x_1$ y $x_2=1$. Calcule el valor de $x_1$ más grande en el intervalo $(0,1)$ para el cual $f(0.5)-P_2(0.5)=-0.25$ 
-\end{Eje}
-\small
-Tip: evalúe en los puntos desde el inicio, así se sabe que términos se cancelaran.
-$$f(x_0)=f(0)=0 \quad f(x_1)=\sqrt{x_1-x_1^2}\quad f(x_2)=f(x_1)=0$$
-Parte I: Determine el polinomio de Lagrange
-\begin{align*}
-&P_2(x)\\
-&=L_0(x)f(x_0)+L_1(x)f(x_1)+L_2(x)f(x_2)\\
-&=\frac{(x-x_1)(x-x_2)}{(x_0-x_1)(x_0-x_2)}f(x_0)+\frac{(x-x_1)(x-x_2)}{(x_1-x_0)(x_1-x_2)}f(x_1)+\frac{(x-x_1)(x-x_2)}{(x_2-x_0)(x_2-x_1)}f(x_2)\\
-&=\frac{(x-0)(x-1)}{(x_1-0)(x_1-1)}\sqrt{x_1-x_1^2}\\
-&=\frac{x(x-1)}{x_1(x_1-1)}\sqrt{x_1-x_1^2}
-\end{align*}
-\end{frame}
-%===========================
-\begin{frame}{Ejercicios}
-\small
-Parte 2: Evalúe en 0.5
-$$P_2(0.5)=\frac{0.5(0.5-1)}{x_1(x_1-0.5)}\sqrt{x_1-x_1^2}=-\frac{0.25\sqrt{x_1-x_1^2}}{x_1(x_1-1)}$$
-Parte 3: Garantizar que $f(0.5)-P_2(0.5)=-0.25$ 
-\begin{align*}
-f(0.5)-P_2(0.5)&=-0.25\\
-0.5+\frac{0.25\sqrt{x_1-x_1^2}}{x_1(x_1-1)}&=-0.25\\
-\frac{0.5+0.25}{0.25}&=\frac{\sqrt{x_1-x_1^2}}{x_1(x_1-1)}\\
--3&=\frac{\sqrt{x_1(1-x_1)}}{-x_1(1-x_1)}=-\frac{1}{\sqrt{x_1(1-x_1)}}\\
-9x_1(x_1-1)&=1\\
--9x_1^2+9x_1-1&=0 \quad \implies x=\frac{1}{2}\pm\frac{\sqrt{5}}{6}
-\end{align*}
-Por lo tanto, \textcolor{blue}{$x_1=\frac{1}{2}+\frac{\sqrt{5}}{6}\approx 0.8726779$} 
-\end{frame}

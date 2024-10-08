@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.27)  9 SEP 2024 20:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.27)  8 OCT 2024 07:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -971,8 +971,8 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box127
 )
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.aux
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -1060,11 +1060,11 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package hyperref Info: Link coloring OFF on input line 7.
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.out)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.out)
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.out)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.out)
 \@outlinefile=\write5
 \openout5 = `PresentacionPrincipal2024.out'.
 
@@ -1098,8 +1098,8 @@ LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.nav)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.nav)
 <FondoUNAH.png, id=24, 1204.5pt x 632.3625pt>
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
@@ -1108,7 +1108,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 10.
  [1
 
 {C:/Users/50487/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./FondoUNAH.
-png>] (PrimeraUnidad.tex
+png>]
+(PrimeraUnidad.tex
 
 LaTeX Warning: Citation `burden2017análisis' on page 2 undefined on input line
  19.
@@ -1187,8 +1188,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 83.
 
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb
 <Imagen20.png, id=219, 258.10715pt x 215.08928pt>
 File: Imagen20.png Graphic file (type png)
 <use Imagen20.png>
@@ -1206,8 +1207,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 95.
 
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb
 (C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
@@ -1270,8 +1271,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 122.
 
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 141.
@@ -1280,8 +1281,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 141.
 
 ]
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 141.
@@ -1290,8 +1291,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 141.
 
 ]
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 141.
@@ -1300,8 +1301,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 141.
 
 ]
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 141.
@@ -1313,8 +1314,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 141.
 
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 153.
@@ -1326,8 +1327,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 153.
 
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 171.
@@ -1339,8 +1340,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 171.
 
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 187.
@@ -1352,8 +1353,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 187.
 
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb
 
 LaTeX Warning: Citation `burden2017análisis' on page 16 undefined on input lin
 e 2.
@@ -1370,8 +1371,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 202.
 
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 213.
@@ -1380,8 +1381,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 213.
 
 ]
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 213.
@@ -1390,8 +1391,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 213.
 
 ]
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 213.
@@ -1400,8 +1401,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 213.
 
 ]
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 213.
@@ -1413,8 +1414,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 213.
 
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 232.
@@ -1426,8 +1427,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 232.
 
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 Overfull \vbox (9.84459pt too high) detected at line 257
  []
 
@@ -1442,21 +1443,21 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 257.
 
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 271.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [23
 
-]) (EjerciciosParcial1.tex
+])
+(EjerciciosParcial1.tex
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 18.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
-
-[24
+ [24
 
 ]
 File: FondoUNAH.png Graphic file (type png)
@@ -1526,7 +1527,8 @@ File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 34.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
- [34
+
+[34
 
 ]
 File: FondoUNAH.png Graphic file (type png)
@@ -1561,8 +1563,7 @@ File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 51.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
-
-[39
+ [39
 
 ]
 File: FondoUNAH.png Graphic file (type png)
@@ -1657,8 +1658,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 102.
 
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
 )
@@ -1673,8 +1674,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 126.
 
 ]
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 Overfull \vbox (32.15186pt too high) detected at line 126
  []
 
@@ -1804,8 +1805,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 200.
 
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 213.
@@ -1814,8 +1815,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 213.
 
 ]
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 213.
@@ -1834,7 +1835,8 @@ File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 230.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
- [66
+
+[66
 
 ]
 File: FondoUNAH.png Graphic file (type png)
@@ -1855,8 +1857,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 230.
 
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 253.
@@ -1865,8 +1867,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 253.
 
 ]
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 253.
@@ -1875,8 +1877,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 253.
 
 ]
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 253.
@@ -1885,8 +1887,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 253.
 
 ]
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 253.
@@ -1898,8 +1900,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 253.
 
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb
 Overfull \hbox (3.26855pt too wide) detected at line 27
 []
  []
@@ -1916,8 +1918,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 282.
 
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 312.
@@ -1926,8 +1928,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 312.
 
 ]
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
 Package pdftex.def Info: FondoUNAH.png  used on input line 312.
@@ -1939,8 +1941,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 312.
 
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb
 Overfull \hbox (0.24428pt too wide) in paragraph at lines 40--41
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -1970,8 +1972,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 358.
 
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 Overfull \vbox (24.69485pt too high) detected at line 374
  []
 
@@ -1983,8 +1985,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 374.
 
 ]
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 Overfull \vbox (24.69485pt too high) detected at line 374
  []
 
@@ -1996,8 +1998,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 374.
 
 ]
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.vrb)
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.vrb)
 Overfull \vbox (24.69485pt too high) detected at line 374
  []
 
@@ -2057,24 +2059,6 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 406.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
 [83
 
-]
-Overfull \hbox (5.07085pt too wide) detected at line 423
-[]
- []
-
-File: FondoUNAH.png Graphic file (type png)
-<use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 423.
-(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
-[84
-
-]
-File: FondoUNAH.png Graphic file (type png)
-<use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 439.
-(pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
- [85
-
 ])
 \tf@nav=\write6
 \openout6 = `PresentacionPrincipal2024.nav'.
@@ -2087,8 +2071,8 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 439.
 
 
 (C:\Users\50487\OneDrive - Universidad Nacional Autónoma de Honduras\Documents
-\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Presentación de la 
-clase\build\PresentacionPrincipal2024.aux
+\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\RespaldoArchivosAna
+lisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -2105,15 +2089,19 @@ ed.
 (rerunfilecheck)             Checksum: C11C6995EFC79C2BAA5FDEFD1F657FC8;161.
  ) 
 Here is how much of TeX's memory you used:
- 27962 strings out of 474486
- 535253 string characters out of 5743755
+ 27957 strings out of 474486
+ 537015 string characters out of 5743755
  2001542 words of memory out of 5000000
- 49432 multiletter control sequences out of 15000+600000
+ 49430 multiletter control sequences out of 15000+600000
  567280 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,18n,123p,536b,2383s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-pdfTeX warning (dest): name{Navigation86} has been referenced but does not exis
+pdfTeX warning (dest): name{Navigation84} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation85} has been referenced but does not exis
 t, replaced by a fixed one
 
  <C:\Users\50487\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm09
@@ -2145,11 +2133,11 @@ e1/public/amsfonts/cm/cmti10.pfb><C:/Users/50487/AppData/Local/Programs/MiKTeX/
 fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/50487/AppData/Local/Programs
 /MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
 Output written on "C:\Users\50487\OneDrive - Universidad Nacional Autónoma de 
-Honduras\Documents\ClasesPACIII2024\Análisis Numérico\AnalisisNumerico2024\Pr
-esentación de la clase\build\PresentacionPrincipal2024.pdf" (85 pages, 1476535
- bytes).
+Honduras\Documents\ClasesPACIII2024\Análisis Numérico\PresentacionClase2024\R
+espaldoArchivosAnalisisNumericoPeriodoIII2024\build\PresentacionPrincipal2024.p
+df" (83 pages, 1459936 bytes).
 PDF statistics:
- 2416 PDF objects out of 2487 (max. 8388607)
- 194 named destinations out of 1000 (max. 500000)
+ 2365 PDF objects out of 2487 (max. 8388607)
+ 191 named destinations out of 1000 (max. 500000)
  97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
