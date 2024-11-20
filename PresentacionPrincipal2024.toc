@@ -1,0 +1,7 @@
+\babel@toc {spanish}{}\relax 
+\beamer@sectionintoc {1}{Métodos de Taylor de orden superior}{26}{0}{1}
+\beamer@sectionintoc {2}{Método de Runge-Kutta}{46}{0}{2}
+\beamer@subsectionintoc {2}{1}{Ejemplos}{57}{0}{2}
+\beamer@sectionintoc {3}{Método de diferencias finitas,sitemas EDO orden 2}{65}{0}{3}
+\beamer@subsectionintoc {3}{1}{Ejemplos}{72}{0}{3}
+\beamer@sectionintoc {4}{Ejercicios}{78}{0}{4}

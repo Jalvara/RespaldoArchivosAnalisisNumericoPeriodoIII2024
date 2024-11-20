@@ -12,7 +12,8 @@ Análisis Numérico, IC303}
 %\tableofcontents[hideallsubsections]
 %\end{frame}
 %\input{PrimeraUnidad.tex}
-\input{SegundaUnidad.tex}
+%\input{SegundaUnidad.tex}
+\input{TerceraUnidad/Diapositivas.tex}
 %\section{Derivación Numérica}
 %\section{Integración Numérica}
 %\section{Problemas de valor inicial}
