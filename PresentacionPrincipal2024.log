@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.27)  20 NOV 2024 07:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.27)  20 NOV 2024 08:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1114,7 +1114,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
 (C:\Users\50487\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \vbox (7.45573pt too high) detected at line 18
+Overfull \vbox (10.20573pt too high) detected at line 18
  []
 
 File: FondoUNAH.png Graphic file (type png)
@@ -1124,7 +1124,7 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 18.
 [2
 
 ]
-Overfull \vbox (7.45573pt too high) detected at line 18
+Overfull \vbox (10.20573pt too high) detected at line 18
  []
 
 File: FondoUNAH.png Graphic file (type png)
@@ -1134,7 +1134,7 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 18.
 [3
 
 ]
-Overfull \vbox (7.45573pt too high) detected at line 18
+Overfull \vbox (10.20573pt too high) detected at line 18
  []
 
 File: FondoUNAH.png Graphic file (type png)
@@ -1195,26 +1195,26 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 138.
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 148.
+Package pdftex.def Info: FondoUNAH.png  used on input line 149.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [12
 
 ]
-<TerceraUnidad/Imagen13.jpg, id=364, 537.29303pt x 114.85768pt>
+<TerceraUnidad/Imagen13.jpg, id=365, 537.29303pt x 114.85768pt>
 File: TerceraUnidad/Imagen13.jpg Graphic file (type jpg)
 <use TerceraUnidad/Imagen13.jpg>
-Package pdftex.def Info: TerceraUnidad/Imagen13.jpg  used on input line 159.
+Package pdftex.def Info: TerceraUnidad/Imagen13.jpg  used on input line 160.
 (pdftex.def)             Requested size: 268.64586pt x 57.42868pt.
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 159.
+Package pdftex.def Info: FondoUNAH.png  used on input line 160.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [13
 
  <./TerceraUnidad/Imagen13.jpg>]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 174.
+Package pdftex.def Info: FondoUNAH.png  used on input line 175.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
 
 [14
@@ -1222,183 +1222,183 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 174.
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 183.
+Package pdftex.def Info: FondoUNAH.png  used on input line 184.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [15
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 204.
+Package pdftex.def Info: FondoUNAH.png  used on input line 205.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [16
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 204.
+Package pdftex.def Info: FondoUNAH.png  used on input line 205.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [17
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 204.
+Package pdftex.def Info: FondoUNAH.png  used on input line 205.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [18
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 204.
+Package pdftex.def Info: FondoUNAH.png  used on input line 205.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [19
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 221.
+Package pdftex.def Info: FondoUNAH.png  used on input line 222.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [20
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 234.
+Package pdftex.def Info: FondoUNAH.png  used on input line 235.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [21
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 234.
+Package pdftex.def Info: FondoUNAH.png  used on input line 235.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [22
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 234.
+Package pdftex.def Info: FondoUNAH.png  used on input line 235.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [23
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 234.
+Package pdftex.def Info: FondoUNAH.png  used on input line 235.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [24
 
 ]
-Overfull \vbox (19.54413pt too high) detected at line 253
+Overfull \vbox (19.54413pt too high) detected at line 254
  []
 
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 253.
+Package pdftex.def Info: FondoUNAH.png  used on input line 254.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
 [25
 
 ]
-<TerceraUnidad/Imagen14.jpg, id=694, 393.61339pt x 297.25339pt>
+<TerceraUnidad/Imagen14.jpg, id=695, 393.61339pt x 297.25339pt>
 File: TerceraUnidad/Imagen14.jpg Graphic file (type jpg)
 <use TerceraUnidad/Imagen14.jpg>
-Package pdftex.def Info: TerceraUnidad/Imagen14.jpg  used on input line 263.
+Package pdftex.def Info: TerceraUnidad/Imagen14.jpg  used on input line 264.
 (pdftex.def)             Requested size: 118.08492pt x 89.1767pt.
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 263.
+Package pdftex.def Info: FondoUNAH.png  used on input line 264.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [26
 
  <./TerceraUnidad/Imagen14.jpg>]
-Overfull \vbox (14.82475pt too high) detected at line 280
+Overfull \vbox (14.82475pt too high) detected at line 281
  []
 
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 280.
+Package pdftex.def Info: FondoUNAH.png  used on input line 281.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
 [27
 
 ]
-Overfull \vbox (14.82475pt too high) detected at line 280
+Overfull \vbox (14.82475pt too high) detected at line 281
  []
 
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 280.
+Package pdftex.def Info: FondoUNAH.png  used on input line 281.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
 [28
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 297.
+Package pdftex.def Info: FondoUNAH.png  used on input line 298.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [29
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 297.
+Package pdftex.def Info: FondoUNAH.png  used on input line 298.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [30
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 297.
+Package pdftex.def Info: FondoUNAH.png  used on input line 298.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [31
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 297.
+Package pdftex.def Info: FondoUNAH.png  used on input line 298.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [32
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 297.
+Package pdftex.def Info: FondoUNAH.png  used on input line 298.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [33
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 297.
+Package pdftex.def Info: FondoUNAH.png  used on input line 298.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [34
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 297.
+Package pdftex.def Info: FondoUNAH.png  used on input line 298.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [35
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 297.
+Package pdftex.def Info: FondoUNAH.png  used on input line 298.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [36
 
 ]
-Overfull \hbox (2.66591pt too wide) detected at line 317
+Overfull \hbox (2.66591pt too wide) detected at line 318
 []
  []
 
 
-Overfull \vbox (23.4066pt too high) detected at line 317
+Overfull \vbox (23.4066pt too high) detected at line 318
  []
 
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 317.
+Package pdftex.def Info: FondoUNAH.png  used on input line 318.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
 [37
 
@@ -1406,57 +1406,57 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 317.
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 338.
+(amsmath)                 on input line 339.
 
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 338.
+Package pdftex.def Info: FondoUNAH.png  used on input line 339.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
 [38
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 338.
+Package pdftex.def Info: FondoUNAH.png  used on input line 339.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [39
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 338.
+Package pdftex.def Info: FondoUNAH.png  used on input line 339.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [40
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 338.
+Package pdftex.def Info: FondoUNAH.png  used on input line 339.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [41
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 338.
+Package pdftex.def Info: FondoUNAH.png  used on input line 339.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [42
 
 ]
-Overfull \hbox (22.21875pt too wide) detected at line 367
+Overfull \hbox (22.21875pt too wide) detected at line 368
 []
  []
 
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 367.
+Package pdftex.def Info: FondoUNAH.png  used on input line 368.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
 [43
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 378.
+Package pdftex.def Info: FondoUNAH.png  used on input line 379.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [44
 
@@ -1464,69 +1464,69 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 378.
 <TerceraUnidad/Imagen15.jpg, id=1175, 234.01714pt x 170.7809pt>
 File: TerceraUnidad/Imagen15.jpg Graphic file (type jpg)
 <use TerceraUnidad/Imagen15.jpg>
-Package pdftex.def Info: TerceraUnidad/Imagen15.jpg  used on input line 384.
+Package pdftex.def Info: TerceraUnidad/Imagen15.jpg  used on input line 385.
 (pdftex.def)             Requested size: 187.21396pt x 136.6249pt.
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 384.
+Package pdftex.def Info: FondoUNAH.png  used on input line 385.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [45
 
  <./TerceraUnidad/Imagen15.jpg>]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 400.
+Package pdftex.def Info: FondoUNAH.png  used on input line 401.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [46
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 411.
+Package pdftex.def Info: FondoUNAH.png  used on input line 412.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [47
 
 ]
-Overfull \vbox (14.20395pt too high) detected at line 436
+Overfull \vbox (14.20395pt too high) detected at line 437
  []
 
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 436.
+Package pdftex.def Info: FondoUNAH.png  used on input line 437.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
 [48
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 447.
+Package pdftex.def Info: FondoUNAH.png  used on input line 448.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [49
 
 ]
-Overfull \vbox (41.37062pt too high) detected at line 471
+Overfull \vbox (41.37062pt too high) detected at line 472
  []
 
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 471.
+Package pdftex.def Info: FondoUNAH.png  used on input line 472.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
 [50
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 482.
+Package pdftex.def Info: FondoUNAH.png  used on input line 483.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [51
 
 ]
-Overfull \vbox (14.17616pt too high) detected at line 506
+Overfull \vbox (14.17616pt too high) detected at line 507
  []
 
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 506.
+Package pdftex.def Info: FondoUNAH.png  used on input line 507.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
 [52
 
@@ -1535,46 +1535,46 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 506.
 File: TerceraUnidad/GraficaApro_RungeKutta.jpg Graphic file (type jpg)
 <use TerceraUnidad/GraficaApro_RungeKutta.jpg>
 Package pdftex.def Info: TerceraUnidad/GraficaApro_RungeKutta.jpg  used on inpu
-t line 515.
+t line 516.
 (pdftex.def)             Requested size: 266.70598pt x 145.74191pt.
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 515.
+Package pdftex.def Info: FondoUNAH.png  used on input line 516.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [53
 
  <./TerceraUnidad/GraficaApro_RungeKutta.jpg>]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 530.
+Package pdftex.def Info: FondoUNAH.png  used on input line 531.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [54
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 542.
+Package pdftex.def Info: FondoUNAH.png  used on input line 543.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [55
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 559.
+Package pdftex.def Info: FondoUNAH.png  used on input line 560.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [56
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 578.
+Package pdftex.def Info: FondoUNAH.png  used on input line 579.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [57
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 602.
+Package pdftex.def Info: FondoUNAH.png  used on input line 603.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
 
 [58
@@ -1582,150 +1582,150 @@ Package pdftex.def Info: FondoUNAH.png  used on input line 602.
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 618.
+Package pdftex.def Info: FondoUNAH.png  used on input line 619.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [59
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 634.
+Package pdftex.def Info: FondoUNAH.png  used on input line 635.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [60
 
 ]
-Overfull \vbox (91.02513pt too high) detected at line 660
+Overfull \vbox (91.02513pt too high) detected at line 661
  []
 
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 660.
+Package pdftex.def Info: FondoUNAH.png  used on input line 661.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
 [61
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 680.
+Package pdftex.def Info: FondoUNAH.png  used on input line 681.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [62
 
 ]
-Overfull \vbox (24.83946pt too high) detected at line 696
+Overfull \vbox (24.83946pt too high) detected at line 697
  []
 
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 696.
+Package pdftex.def Info: FondoUNAH.png  used on input line 697.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
 [63
 
 ]
-Overfull \vbox (22.5668pt too high) detected at line 719
+Overfull \vbox (22.5668pt too high) detected at line 720
  []
 
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 719.
+Package pdftex.def Info: FondoUNAH.png  used on input line 720.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
 [64
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 736.
+Package pdftex.def Info: FondoUNAH.png  used on input line 737.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [65
 
 ]
-Overfull \hbox (10.58287pt too wide) detected at line 747
+Overfull \hbox (10.58287pt too wide) detected at line 748
 []
  []
 
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 747.
+Package pdftex.def Info: FondoUNAH.png  used on input line 748.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
 [66
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 765.
+Package pdftex.def Info: FondoUNAH.png  used on input line 766.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [67
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 783.
+Package pdftex.def Info: FondoUNAH.png  used on input line 784.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [68
 
 ]
-Overfull \hbox (5.81831pt too wide) detected at line 801
+Overfull \hbox (5.81831pt too wide) detected at line 802
 []
  []
 
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 801.
+Package pdftex.def Info: FondoUNAH.png  used on input line 802.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
 [69
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 817.
+Package pdftex.def Info: FondoUNAH.png  used on input line 818.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [70
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 851.
+Package pdftex.def Info: FondoUNAH.png  used on input line 852.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [71
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 864.
+Package pdftex.def Info: FondoUNAH.png  used on input line 865.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [72
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 881.
+Package pdftex.def Info: FondoUNAH.png  used on input line 882.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [73
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 919.
+Package pdftex.def Info: FondoUNAH.png  used on input line 920.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [74
 
 ] Excluding 'comment' comment.
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 959.
+Package pdftex.def Info: FondoUNAH.png  used on input line 960.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [75
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 979.
+Package pdftex.def Info: FondoUNAH.png  used on input line 980.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [76
 
 ]
 File: FondoUNAH.png Graphic file (type png)
 <use FondoUNAH.png>
-Package pdftex.def Info: FondoUNAH.png  used on input line 1005.
+Package pdftex.def Info: FondoUNAH.png  used on input line 1006.
 (pdftex.def)             Requested size: 364.20155pt x 273.14566pt.
  [77
 
@@ -2278,10 +2278,10 @@ ed.
 (rerunfilecheck)             Checksum: 677F4C227357E2EC4D6F69F237A2D142;374.
  ) 
 Here is how much of TeX's memory you used:
- 25997 strings out of 474486
- 498147 string characters out of 5743755
+ 25999 strings out of 474486
+ 498199 string characters out of 5743755
  1947542 words of memory out of 5000000
- 47458 multiletter control sequences out of 15000+600000
+ 47460 multiletter control sequences out of 15000+600000
  568633 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,123p,446b,607s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2323,7 +2323,7 @@ TeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/50487/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Users/50487/AppData/L
 ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/50487/A
 ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on PresentacionPrincipal2024.pdf (136 pages, 1957438 bytes).
+Output written on PresentacionPrincipal2024.pdf (136 pages, 1959271 bytes).
 PDF statistics:
  3687 PDF objects out of 4296 (max. 8388607)
  287 named destinations out of 1000 (max. 500000)

@@ -10,33 +10,33 @@ En la ciencia se pueden encontrar diferentes ecuaciones que modelan ciertos fen�
 \item Problema de los $N$ cuerpos (\textbf{Sistemas}): \textbf{$\dfrac{d^2y_i}{dx^2}=G\sum_{j=1,j\neq i}^{N}\dfrac{m_j}{|y_j-y_i|^3}(y_j-y_i)$}
 \end{itemize}
 \end{block}\pause
-\begin{block}{Ecuación diferencial ordinaria lineal}
+\begin{Def}[Ecuación diferencial ordinaria lineal]
 Una ecuación diferencial se dice lineal si esta se puede expresar como:
 $$L(y)=b(x).$$
 Donde $L$ es de la forma $a_n(x)\dfrac{d^n}{dx^n}+a_{n-1}(x)\dfrac{d^{n-1}}{dx^{n-1}}+\cdots+a_0(x).$
-\end{block}
+\end{Def}
 \end{frame}
 \begin{frame}{Clasificación}
 Si la ecuación diferencial no se puede escribir como en la definición anterior, entonces se dice que es una ecuación de diferencial no lineal. Un ejemplo de una ecuación diferencial no lineal se muestra a continuación:
 $$y''y'+xy=0.$$
-\begin{block}{Orden}
+\begin{Def}[Orden]
 Se dice que una ecuación diferencial es de orden $n$ si la derivada más alta en la ecuación es de orden $n$.
-\end{block}\pause
+\end{Def}\pause
 \begin{itemize}
 \item $3x+y=y'$ (Orden 1, lineal).
 \item $3xyy''+y'=0$ (Orden 2, no lineal).
 \end{itemize}
-\begin{block}{Proposición}
+\begin{Prop}
 Toda ecuación diferencial de orden $n$ puede ser expresado como un sistema de ecuaciones diferenciales de primer orden. 
-\end{block}
+\end{Prop}
 \end{frame}
 \begin{frame}
 \small
-\begin{block}{Ejemplo}
+\begin{Eje}
 Considere la ecuación diferencial no lineal de segundo orden:
 $$3xyy''+y'=0.$$
 Muestre que esta ecuación se puede plantear como un sistema de ecuaciones de primer orden.
-\end{block}
+\end{Eje}
 Si se hace $y_0=y$ y $y_1=y'$, entonces el problema se puede plantear de la siguiente forma:
 \begin{displaymath}
 \left \{
@@ -93,7 +93,7 @@ Donde $Y=(y_0,y_1).$
 \end{frame}
 \begin{frame}{Existencia y unicidad}
 \small
-\begin{block}{Ejemplo (Infinitas soluciones)}
+\begin{Eje}[Infinitas soluciones]
 Considere el problema de valor inicial:
 $$y'=|y|^\alpha. \alpha\in (0,1)$$
 $$y(0)=0.$$
@@ -106,7 +106,7 @@ y_c(x)=\left \{
 \end{array}
 \right.
 \end{displaymath}
-\end{block}
+\end{Eje}
 \end{frame}
 \begin{frame}{Existencia y unicidad}
 \textcolor{cyan}{
@@ -139,6 +139,7 @@ Sean $D=[a,b]\times \mathbb{R}$ y $f:D\rightarrow \mathbb{R}$ continua. Suponga 
 \begin{frame}
 \begin{Def}[Conjunto Convexo]
 Un conjunto $D$ es convexo si para cualesquiera $x$, $y$ en $D$ se tiene que $$\lambda x+(1-\lambda )y\in D.$$
+Donde $\lambda\in[0,1].$
 \end{Def}
 \begin{Teo}[Criterio]
 Sea $f(t,y)$ definida en un conjunto convexo $D\subset \mathbb{R}^2.$ Si existe una constante $L>0$ con:
