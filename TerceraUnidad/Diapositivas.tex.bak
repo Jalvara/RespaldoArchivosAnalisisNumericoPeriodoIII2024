@@ -13,8 +13,7 @@ En la ciencia se pueden encontrar diferentes ecuaciones que modelan ciertos fen�
 \begin{block}{Ecuación diferencial ordinaria lineal}
 Una ecuación diferencial se dice lineal si esta se puede expresar como:
 $$L(y)=b(x).$$
-Donde $L$ es de la forma:
-$$a_n(x)\dfrac{d^n}{dx^n}+a_{n-1}(x)\dfrac{d^{n-1}}{dx^{n-1}}+\cdots+a_0(x).$$
+Donde $L$ es de la forma $a_n(x)\dfrac{d^n}{dx^n}+a_{n-1}(x)\dfrac{d^{n-1}}{dx^{n-1}}+\cdots+a_0(x).$
 \end{block}
 \end{frame}
 \begin{frame}{Clasificación}
@@ -143,7 +142,8 @@ Un conjunto $D$ es convexo si para cualesquiera $x$, $y$ en $D$ se tiene que $$\
 \end{Def}
 \begin{Teo}[Criterio]
 Sea $f(t,y)$ definida en un conjunto convexo $D\subset \mathbb{R}^2.$ Si existe una constante $L>0$ con:
-$$|\dfrac{\part}{•}|$$
+$$\bigg|\dfrac{\partial f}{\partial y}(t,y)\bigg|\leq L$$
+entonces $f$ satisface una condición de Lipschitz en $D$ en la variable $y$ con la constante $L$ de Lipschitz.
 \end{Teo}
 \end{frame}
 %====================================
